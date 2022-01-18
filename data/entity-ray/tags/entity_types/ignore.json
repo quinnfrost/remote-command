@@ -1,7 +1,6 @@
 {
 	"replace": false,
 	"values": [
-		"iceandfire:dragon_multipart",
 		"minecraft:item",
 		"minecraft:item_frame"
 	]

@@ -3,9 +3,9 @@
 	"entity": "this",
 	"predicate": {
 		"equipment": {
-			"offhand": {
+			"mainhand": {
 				"items": [
-					"minecraft:end_rod"
+					"minecraft:spyglass"
 				]
 			}
 		}
