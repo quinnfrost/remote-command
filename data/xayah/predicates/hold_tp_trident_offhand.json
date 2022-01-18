@@ -2,9 +2,11 @@
     "condition": "minecraft:entity_properties",
     "entity": "this",
     "predicate": {
-        "equipment":{
-            "offhand":{
-                "item": "minecraft:trident"
+        "equipment": {
+            "offhand": {
+                "items": [
+                    "minecraft:trident"
+                ]
             }
         }
     }

@@ -4,7 +4,9 @@
 	"predicate": {
 		"equipment": {
 			"offhand": {
-				"itemz": "minecraft:warped_fungus_on_a_stick",
+				"items": [
+					"minecraft:warped_fungus_on_a_stick"
+				],
 				"nbt": "{id:\"test:floating_feather\"}"
 			}
 		}
