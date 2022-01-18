@@ -1,0 +1,2 @@
+scoreboard objectives add c_on_stick_used minecraft.used:minecraft.carrot_on_a_stick
+scoreboard objectives add w_on_stick_used minecraft.used:minecraft.warped_fungus_on_a_stick

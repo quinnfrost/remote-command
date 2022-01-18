@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"DDD",
+		" E ",
+		" E "
+	],
+	"key": {
+		"D": {
+			"item": "minecraft:prismarine_crystals"
+		},
+		"E": {
+			"item": "minecraft:diamond"
+		}
+	},
+	"result": {
+		"item": "minecraft:trident",
+		"count": 1
+	}
+}

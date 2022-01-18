@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "D",
+    "E",
+    "F"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:enchanted_golden_apple"
+    },
+    "E": {
+      "item": "minecraft:splash_potion"
+    },
+    "F": {
+      "item": "minecraft:lava_bucket"
+    }
+  },
+  "result": {
+    "item": "minecraft:experience_bottle",
+    "count": 2
+  }
+}

@@ -1,0 +1,19 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "minecraft:warped_fungus_on_a_stick",
+					"functions": [
+						{
+							"function": "minecraft:set_nbt",
+							"tag": "{id:'test:dragon_stick',display:{Name:'{\"translate\":\"item.test.dragon_stick\"}'},CustomModelData:13400002}"
+						}
+					]
+				}
+			]
+		}
+	]
+}

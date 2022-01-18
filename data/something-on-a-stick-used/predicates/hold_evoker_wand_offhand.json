@@ -1,0 +1,12 @@
+{
+	"condition": "minecraft:entity_properties",
+	"entity": "this",
+	"predicate": {
+		"equipment": {
+			"offhand": {
+				"itemz": "minecraft:warped_fungus_on_a_stick",
+				"nbt": "{id:\"test:evoker_wand\"}"
+			}
+		}
+	}
+}

@@ -1,0 +1,67 @@
+{
+  "values":[
+    "minecraft:redstone_wire",
+
+    "minecraft:beetroots",
+    "minecraft:nether_wart",
+    "minecraft:kelp",
+
+    "minecraft:lever",
+    "minecraft:tripwire_hook",
+    "minecraft:tripwire",
+
+    "minecraft:lily_pad",
+    "minecraft:wheat",
+    "minecraft:sugar_cane",
+    "minecraft:sweet_berry_bush",
+
+    "#minecraft:wall_signs",
+    "#minecraft:buttons",
+    "#minecraft:rails",
+
+    "#block-ray:standing_sign_like",
+    "#block-ray:attached_melon_stem_like",
+    "#block-ray:melon_stem_like",
+    "#block-ray:wall_torch_like",
+    "#block-ray:torch_like",
+    "#block-ray:wall_coral_like",
+    "#block-ray:coral_plant_like",
+    "#block-ray:coral_fan_like",
+    "#block-ray:grass_like",
+    "#block-ray:sapling_like",
+    "#block-ray:wall_banner_like",
+    "#block-ray:carrots_like",
+    "#block-ray:pressure_plate_like",
+    "#block-ray:vine_like",
+    "#block-ray:fungus",
+    "#block-ray:roots",
+    "#block-ray:hanging_roots_like",
+    "#block-ray:weeping_like",
+
+	  "minecraft:red_mushroom",
+    "minecraft:brown_mushroom",
+    "#minecraft:small_flowers",
+    "#minecraft:tall_flowers",
+    "minecraft:bamboo_sapling",
+
+    "minecraft:twisting_vines",
+    "minecraft:twisting_vines_plant",
+    "minecraft:nether_sprouts",
+    "minecraft:soul_fire",
+
+    "minecraft:tall_grass",
+    "minecraft:tall_seagrass",
+    "minecraft:large_fern",
+    "minecraft:bubble_column",
+    "minecraft:end_gateway",
+    "minecraft:kelp_plant",
+    "minecraft:lava",
+    "minecraft:water",
+    "minecraft:nether_portal",
+
+    "minecraft:small_dripleaf",
+    "minecraft:big_dripleaf_stem",
+    "minecraft:spore_blossom",
+    "minecraft:powder_snow"
+  ]
+}

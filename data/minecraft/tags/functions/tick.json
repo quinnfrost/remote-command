@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "#lightning-arrow:tick",
+        "something-on-a-stick-used:tick",
+        "#xayah:tick",
+        "feeding-animal:tick",
+        "item-break-blocks:tick",
+        "sneak-test:tick"
+    ]
+}

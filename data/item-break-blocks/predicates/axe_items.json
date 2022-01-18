@@ -1,0 +1,37 @@
+{
+	"condition": "minecraft:alternative",
+	"terms": [
+		{
+			"condition": "minecraft:entity_properties",
+			"entity": "this",
+			"predicate": {
+				"type": "minecraft:item",
+				"nbt": "{Item:{id:\"minecraft:netherite_axe\"}}"
+			}
+		},
+		{
+			"condition": "minecraft:entity_properties",
+			"entity": "this",
+			"predicate": {
+				"type": "minecraft:item",
+				"nbt": "{Item:{id:\"minecraft:diamond_axe\"}}"
+			}
+		},
+		{
+			"condition": "minecraft:entity_properties",
+			"entity": "this",
+			"predicate": {
+				"type": "minecraft:item",
+				"nbt": "{Item:{id:\"minecraft:iron_axe\"}}"
+			}
+		},
+		{
+			"condition": "minecraft:entity_properties",
+			"entity": "this",
+			"predicate": {
+				"type": "minecraft:item",
+				"nbt": "{Item:{id:\"minecraft:stone_axe\"}}"
+			}
+		}
+	]
+}

@@ -1,0 +1,4 @@
+execute as @a[predicate=something-on-a-stick-used:hold_evoker_wand_offhand] at @e[sort=random,limit=8] run summon minecraft:firework_rocket ~ 80 ~ {LifeTime:40,FireworksItem:{id:"minecraft:firework_rocket",Count:1,tag:{Fireworks:{Flight:3b,Explosions:[{Flicker:2,Trail:False,Type:4,Colors:[I; 5636095,16755200,11743532,16733695,16777215],FadeColors:[]}]}}}}
+execute as @a[predicate=something-on-a-stick-used:hold_evoker_wand_offhand] at @e[sort=random,limit=1] run summon minecraft:firework_rocket ~ 80 ~ {LifeTime:40,FireworksItem:{id:"minecraft:firework_rocket",Count:1,tag:{Fireworks:{Flight:3b,Explosions:[{Flicker:2,Trail:False,Type:1,Colors:[I; 5636095,16755200,11743532,16733695,16777215],FadeColors:[]}]}}}}
+
+execute if entity @a[predicate=something-on-a-stick-used:hold_evoker_wand_offhand] run schedule function xayah:fireworks 8t

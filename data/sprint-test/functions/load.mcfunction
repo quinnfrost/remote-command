@@ -1,0 +1,1 @@
+scoreboard objectives add sprintTest minecraft.custom:minecraft.sprint_one_cm

@@ -1,0 +1,1 @@
+scoreboard objectives add sneakTest minecraft.custom:minecraft.sneak_time

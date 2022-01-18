@@ -1,0 +1,26 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"DDD",
+		"GEG",
+		" F "
+	],
+	"key": {
+		"D": {
+			"item": "minecraft:prismarine_crystals"
+		},
+		"E": {
+			"item": "minecraft:diamond"
+		},
+		"F": {
+			"item": "iceandfire:dragonbone"
+		},
+		"G": {
+			"item": "iceandfire:shiny_scales"
+		}
+	},
+	"result": {
+		"item": "iceandfire:tide-trident",
+		"count": 1
+	}
+}

@@ -1,0 +1,1 @@
+execute as @a[predicate=entity-ray:trigger] at @s anchored eyes positioned ^ ^ ^ anchored feet run function entity-ray:ray
