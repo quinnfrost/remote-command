@@ -7,6 +7,6 @@
         "feeding-animal:tick",
         "item-break-blocks:tick",
         "sneak-test:tick",
-        "entity-ray:tick"
+        "spyglass-used:tick"
     ]
 }

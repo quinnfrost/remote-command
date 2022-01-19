@@ -1,0 +1,1 @@
+scoreboard objectives add spyglassUsed minecraft.used:minecraft.spyglass
